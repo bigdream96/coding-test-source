@@ -2,7 +2,7 @@
  * question source: https://programmers.co.kr/learn/courses/30/lessons/81301
  */
 
-package com.codingtest.source.p81301;
+package com.codingtest.source.programmers.p81301;
 
 import java.util.Map;
 

@@ -2,7 +2,7 @@
  * question source: https://programmers.co.kr/learn/courses/30/lessons/92334
  */
 
-package com.codingtest.source.p92334;
+package com.codingtest.source.programmers.p92334;
 
 import java.util.*;
 

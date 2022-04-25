@@ -1,4 +1,4 @@
-package com.codingtest.source.p42748;
+package com.codingtest.source.programmers.p42748;
 
 import java.util.Arrays;
 

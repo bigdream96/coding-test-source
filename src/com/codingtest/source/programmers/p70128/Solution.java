@@ -1,4 +1,4 @@
-package com.codingtest.source.p70128;
+package com.codingtest.source.programmers.p70128;
 
 class Solution {
     public int solution(int[] a, int[] b) {

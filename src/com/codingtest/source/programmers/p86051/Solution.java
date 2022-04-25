@@ -2,7 +2,7 @@
  * question source: https://programmers.co.kr/learn/courses/30/lessons/86051
  */
 
-package com.codingtest.source.p86051;
+package com.codingtest.source.programmers.p86051;
 
 class Solution {
     public int solution(int[] numbers) {

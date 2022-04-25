@@ -2,7 +2,7 @@
  * question source: https://programmers.co.kr/learn/courses/30/lessons/72410
  */
 
-package com.codingtest.source.p72410;
+package com.codingtest.source.programmers.p72410;
 
 class Solution {
     public String solution(String newId) {

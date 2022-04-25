@@ -1,4 +1,4 @@
-package com.codingtest.source.p42862;
+package com.codingtest.source.programmers.p42862;
 
 import java.util.HashMap;
 

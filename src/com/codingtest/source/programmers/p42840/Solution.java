@@ -1,4 +1,4 @@
-package com.codingtest.source.p42840;
+package com.codingtest.source.programmers.p42840;
 
 import java.util.ArrayList;
 import java.util.Arrays;

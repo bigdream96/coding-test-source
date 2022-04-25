@@ -1,4 +1,4 @@
-package com.codingtest.source.p76051;
+package com.codingtest.source.programmers.p76051;
 
 /**
  * https://programmers.co.kr/learn/courses/30/lessons/76501
