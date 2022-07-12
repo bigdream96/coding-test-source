@@ -3,15 +3,6 @@ package com.codingtest.source.programmers.p92334;
 import java.util.*;
 
 class Solution {
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        String[] idList = {"con", "ryan"};
-        String[] report = {"ryan con", "ryan con", "ryan con", "ryan con"};
-        int k = 2;
-        int[] result = solution.solution(idList, report, k);
-        System.out.println(Arrays.toString(result));
-    }
-
     public int[] solution(String[] idList, String[] reportList, int k) {
         int[] answer = new int[idList.length];
         Map<String, Integer> keyById = new LinkedHashMap<>();
