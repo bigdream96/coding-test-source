@@ -1,4 +1,4 @@
-package com.codingtest.source.programmers;
+package com.codingtest.source.programmers.p17680;
 
 import java.util.LinkedList;
 
