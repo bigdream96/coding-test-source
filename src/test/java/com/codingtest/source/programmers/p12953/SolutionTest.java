@@ -4,7 +4,7 @@ import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-@DisplayName("N개의 최소공배수")
+@DisplayName("프로그래머스 연습문제 - N개의 최소공배수")
 class SolutionTest {
 
     private Solution solution;

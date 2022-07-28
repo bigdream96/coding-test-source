@@ -4,7 +4,7 @@ import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-@DisplayName("최솟값 만들기")
+@DisplayName("프로그래머스 연습문제 - 최솟값 만들기")
 class SolutionTest {
 
     private Solution solution;

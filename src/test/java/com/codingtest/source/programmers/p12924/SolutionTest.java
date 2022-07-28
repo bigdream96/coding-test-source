@@ -4,7 +4,7 @@ import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-@DisplayName("숫자의 표현")
+@DisplayName("프로그래머스 연습문제 - 숫자의 표현")
 class SolutionTest {
 
     private Solution solution;
