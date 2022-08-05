@@ -4,8 +4,6 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import java.util.Arrays;
-
 import static java.util.Arrays.deepEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -39,8 +37,6 @@ class SolutionTest {
         int[] arr2 = new int[]{27, 56, 19, 14, 14, 10};
 
         String[] result = solution.solution(n, arr1, arr2);
-
-        System.out.println("result = " + Arrays.toString(result));
 
         assertTrue(deepEquals(result, new String[]{"######", "###  #", "##  ##", " #### ", " #####", "### # "}));
     }
